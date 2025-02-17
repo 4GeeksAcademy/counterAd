@@ -9,7 +9,7 @@ import "bootstrap"
 import '../styles/index.css'
 
 // components
-import Counter from './components/Counter';
+import Counter from './components/Counter'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
